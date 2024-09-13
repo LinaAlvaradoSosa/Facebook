@@ -1,0 +1,17 @@
+.flex {
+    border: solid 1px black;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    height: 500px;
+    justify-content: right;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    border: solid 1px yellow;
+    border-radius: 5px;
+    text-align: center;
+}
